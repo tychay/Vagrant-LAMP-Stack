@@ -9,7 +9,7 @@
 ip_address = "172.22.22.22"
 
 # The project name is base for directories, hostname and alike
-project_name = "projectname"
+project_name = "prod"
 
 # MySQL and PostgreSQL password - feel free to change it to something
 # more secure (Note: Changing this will require you to update the index.php example file)
