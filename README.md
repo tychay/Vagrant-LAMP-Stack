@@ -7,7 +7,7 @@ The idea is for developers to fork this and add additional software and configur
 * [VirtualBox](https://www.virtualbox.org)
 * [Vagrant](http://vagrantup.com)
 * [Berkshelf](http://berkshelf.com)
-	* `gem install berkshelf`
+	* `sudo gem install berkshelf`
 * [vagrant-berkshelf](https://github.com/riotgames/vagrant-berkshelf)
 	* `vagrant plugin install vagrant-berkshelf --plugin-version '>= 2.0.1'`
 * [vagrant-hostmanager](https://github.com/smdahlen/vagrant-hostmanager)
@@ -20,7 +20,7 @@ The idea is for developers to fork this and add additional software and configur
 ## Installation
 Clone this repository
 
-    $ git clone git@github.com:MiniCodeMonkey/Vagrant-LAMP-Stack.git
+    $ git clone https://github.com/tychay/Vagrant-LAMP-Stack.git
 
 Place your website in the `public` folder
 
